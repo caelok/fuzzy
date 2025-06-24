@@ -1,0 +1,24 @@
+# perko
+requests
+urllib3
+beautifulsoup4
+lxml
+aiohttp
+asyncio-throttle
+colorama
+termcolor
+simplejson
+argparse
+click
+python-dateutil
+pytz
+pytest
+pytest-cov
+black
+flake8
+cryptography
+pyjwt
+dnspython
+python-nmap
+python-magic
+loguru
