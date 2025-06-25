@@ -1,6 +1,6 @@
 <!-- <p align="left"> <img src="https://github.com/user-attachments/assets/8922a1cb-a289-46c0-bda4-e571bcb93087"> </p>   -->
 
-<p>A professional penetration testing request library;</p>
+<p>Penetration testing request library;</p>
 
 <p>designed to seamlessly automate HTTP/HTTPS security testing with advanced fuzzing capabilities and ethical vulnerability detection.</p>
 
